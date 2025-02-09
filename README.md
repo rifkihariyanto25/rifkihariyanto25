@@ -15,6 +15,11 @@ Lifelong Learner, passionate about Backend Development.
     <img src="https://img.shields.io/badge/Design-Canva-00c4cc?&logo=canva&logoColor=white" />
 </p>
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=rifkihariyanto25&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=rifkihariyanto25&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rifkihariyanto25&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 ### <summary><strong>About Me</strong></summary>
 <p>
     - :keyboard: I’m currently focusing on Backend Development and sharpening my skills in Web Development. I am also delving into Fullstack Development and App Development. </br>
