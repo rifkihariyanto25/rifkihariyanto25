@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 # <summary><strong>Hi there :wave: , I'm Rifki Aditya Hariyanto!</strong></summary>
 I’m currently focusing on Backend Development and sharpening my skills in Web Development. I am also delving into Fullstack Development and App Development.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rifkihariyanto25&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -10,7 +10,7 @@ I’m currently focusing on Backend Development and sharpening my skills in Web 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rifkihariyanto25&theme=dark&hide_border=false)<br/>
 
-### <summary><strong>About Me</strong></summary>
+# 💫 About Me:
 <p>
     - :speech_balloon: Open to discussions about backend technologies and data systems. </br>
     - :mailbox: How to reach me: <a href="mailto:hariyantorifki25@gmail.com">Email me!</a> </br>
