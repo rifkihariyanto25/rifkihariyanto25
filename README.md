@@ -5,18 +5,10 @@ Lifelong Learner, passionate about Backend Development.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rifkihariyanto25&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-### <summary><strong>Tools:</strong></summary>
-<p>
-    <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
-    <img src="https://img.shields.io/badge/Tools-XAMPP-orange?&logo=xampp&logoColor=orange" />
-    <img src="https://img.shields.io/badge/Design-Figma-ff69b4?&logo=figma&logoColor=white" />
-    <img src="https://img.shields.io/badge/Productivity-Microsoft%20Word-2b579a?&logo=microsoft-word&logoColor=white" />
-    <img src="https://img.shields.io/badge/Productivity-Microsoft%20Excel-217346?&logo=microsoft-excel&logoColor=white" />
-    <img src="https://img.shields.io/badge/Design-Canva-00c4cc?&logo=canva&logoColor=white" />
-</p>
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rifkihariyanto25&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rifkihariyanto25&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rifkihariyanto25&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
