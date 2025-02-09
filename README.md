@@ -9,11 +9,9 @@ I’m currently focusing on Backend Development and sharpening my skills in Web 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rifkihariyanto25&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rifkihariyanto25&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### <summary><strong>About Me</strong></summary>
 <p>
-    - :keyboard: I’m currently focusing on Backend Development and sharpening my skills in Web Development. I am also delving into Fullstack Development and App Development. </br>
     - :speech_balloon: Open to discussions about backend technologies and data systems. </br>
     - :mailbox: How to reach me: <a href="mailto:hariyantorifki25@gmail.com">Email me!</a> </br>
     - :cloud: Pronouns: He/Him. </br>
