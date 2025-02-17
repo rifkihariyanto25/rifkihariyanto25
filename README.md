@@ -1,6 +1,6 @@
 
 # <summary><strong>Hi there :wave: , I'm Rifki Aditya Hariyanto!</strong></summary>
-I’m currently focusing on Backend Development and sharpening my skills in Web Development. I am also delving into Fullstack Development and App Development.
+Informatics Engineering undergraduate student at Telkom University Purwokerto. I have strong analytical skills and excel at solving problems quickly and effectively. I’m confident in my leadership abilities and enjoy working in team settings. My interests include UI/UX Development, Back End Development, and Document Management.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rifkihariyanto25&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
